@@ -10,7 +10,8 @@ High-performance Solana MEV Bot template written in Rust. Integrated with Jito B
 > The **Production-Ready Source Code** (with Jito Bundle & Jupiter integration) is available for purchase.
 >
 > 👉 **Download Full Code ($49):** (https://mindpath7.gumroad.com/l/solana-rust-bot)
->🪙 **Pay with SOL (0.41 SOL):** https://moonpay.hel.io/pay/694d19f55b34eac42e54ef32
+>
+>  🪙 **Pay with SOL (0.41 SOL):** https://moonpay.hel.io/pay/694d19f55b34eac42e54ef32
 
 
 ---
